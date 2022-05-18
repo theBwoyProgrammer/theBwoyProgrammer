@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Hatim
+𝐈'𝐦 𝐇𝐚𝐭𝐢𝐦
 - 🔭 I’m currently working on being a Full-stack developer at Microverse Inc
 - 🌱 I’m currently learning Javascript, Html, CSS, React & Redux, Ruby, Ruby & rails.
 - 👯 I’m looking to collaborate on any beginner projects possible
