@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on any projects opportunities possible
 - 🤔 I’m currently learning and looking for new opportunities
 - 💬 Ask me about Tech
-- 📫 How to reach me: [@HatimDev](www.linkedin.com/in/hatimdev)
+- 📫 How to reach me: [@HatimDev](hatimeddinani@gmail.com)
 - ⚡ Fun fact: Inquisitive, friendly, dog lover etcetera
