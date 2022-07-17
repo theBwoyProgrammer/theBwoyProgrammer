@@ -69,5 +69,5 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 
 
 <div id="footer" align="center">
-  <img src="https://media.giphy.com/media/M2qsPkGFBWFs9vNhI7/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/>
 </div>
