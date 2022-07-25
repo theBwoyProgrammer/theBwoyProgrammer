@@ -67,8 +67,12 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HatimDev-HE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-<div id="footer" align="center">
-  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/>
-</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/hatimdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hatimdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hatim eddinani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatim eddinani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hatimdev-he" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hatimdev-he" height="30" width="40" /></a>
+<a href="https://medium.com/@hatimdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hatimdev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hatimdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hatimdev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hatimdev-he" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hatimdev-he" height="30" width="40" /></a>
+</p>
