@@ -29,9 +29,9 @@
 
 ### :man_technologist: About Me :
 
-I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a certified Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m currently learning Full-stack development and I can do Front-End now.
+- :telescope: I’m currently learning Back-End which will make me a Full-Stack Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
