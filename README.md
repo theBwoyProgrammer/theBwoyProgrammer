@@ -67,6 +67,10 @@ I am a certified Frontend Developer <img src="https://media.giphy.com/media/WUlp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HatimDev-HE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<div id="header" align="center">
+  <img src="https://camo.githubusercontent.com/34695e0167248e308a0a84e2230ed9ce8b339e90fd35ce33f86bfe00c924c918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966" width='600'/>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hatimdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hatimdev" height="30" width="40" /></a>
