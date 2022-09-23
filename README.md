@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ndHDdFL2VrwZranh4K/giphy.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -13,12 +13,6 @@
 <div id='badges' align="center">
 <img src="https://komarev.com/ghpvc/?username=HatimDev-HE&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-<h1 align='center'>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="400" height="300"/>
