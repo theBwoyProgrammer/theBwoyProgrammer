@@ -6,12 +6,12 @@
   <a href="https://www.linkedin.com/in/hatimdev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/HatimDev">
+  <a href="https://twitter.com/tech_wolf404">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div id='badges' align="center">
-<img src="https://komarev.com/ghpvc/?username=HatimDev-HE&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=techwolf404&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -56,9 +56,9 @@ I am a certified Frontend Developer <img src="https://media.giphy.com/media/WUlp
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HatimDev-HE&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=techwolf404&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HatimDev-HE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techwolf404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div id="header" align="center">
@@ -67,10 +67,10 @@ I am a certified Frontend Developer <img src="https://media.giphy.com/media/WUlp
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/hatimdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hatimdev" height="30" width="40" /></a>
+<a href="https://twitter.com/tech_wolf404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hatimdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hatim eddinani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatim eddinani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19525125/hatimdev-he" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hatimdev-he" height="30" width="40" /></a>
-<a href="https://medium.com/@hatimdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hatimdev" height="30" width="40" /></a>
+<a href="https://medium.com/@techwolf404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hatimdev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hatimdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hatimdev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hatimdev-he" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hatimdev-he" height="30" width="40" /></a>
 </p>
