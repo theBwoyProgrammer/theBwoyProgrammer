@@ -26,7 +26,6 @@
 - ⚡ Fun fact **I'm a dog lover and pretty funny**
 
 ----
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ----
