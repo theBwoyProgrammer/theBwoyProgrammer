@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/bLwWjSM/finall.png" alt="Nature">
 
 <h1 align="center">Hi 👋, I'm Hatim</h1>
-<h3 align="center">I'm a committed junior developer with expertise working with cutting-edge technology and user-friendly services. I'm also passionate about music, and coding seems more natural when accompanied by music. When it comes to new technology and creative coding, I'm constantly eager to learn more.</h3>
+<h3 align="center">I'm a committed junior engineer with expertise working with cutting-edge technology and user-friendly services. I'm also passionate about music, and coding seems more natural when accompanied by music. When it comes to new technology and creative coding, I'm constantly eager to learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebwoyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="thebwoyprogrammer" /> </p>
 
