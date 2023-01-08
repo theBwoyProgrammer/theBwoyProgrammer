@@ -29,7 +29,6 @@
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The fastest way to become a frontend developer in 2023](https://medium.com/@theBwoyPrgrmmr/the-fastest-way-to-become-a-frontend-developer-in-2023-67b9275b1126?source=rss-424a410f9ade------2)
-- [My Tech Journey](https://medium.com/@theBwoyPrgrmmr/my-tech-journey-d6e977a8e2fe?source=rss-424a410f9ade------2)
 <!-- BLOG-POST-LIST:END -->
 ----
 
