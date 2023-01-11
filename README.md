@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Software engineering, RoR**
 
-- 📫 How to reach me [through email](**hatimeddinani@gmail.com**)
+- 📫 How to reach me <a href="mailto:hatimeddinani@gmail.com">through email</a>
 
 - 📄 Know about my experiences [check my Resume](https://docs.google.com/document/d/1X-RTl-oVIxL3ZHEpGZnKAqojkn9waVoAk-Ej1_BfHgA/edit)
 
