@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/the_bwoyprgrmmr" target="blank"><img src="https://img.shields.io/twitter/follow/the_bwoyprgrmmr?logo=twitter&style=for-the-badge" alt="the_bwoyprgrmmr" /></a> </p>
 
-- 🔭 I’m currently working on [Adopt a Dog](https://github.com/techwolf404/adopt-a-dog-frontend)
+- 🔭 I’m currently looking for opportunities
 
-- 🌱 I’m currently learning **ReactJS, Ruby on Rails**
+- 🌱 I’m currently learning more about **ReactJS, Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **any market standard app**
 
