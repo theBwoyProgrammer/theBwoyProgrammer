@@ -28,6 +28,7 @@
 ----
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Web Development 101: Front-End and Back-End Development Explained](https://medium.com/@theBwoyPrgrmmr/web-development-101-front-end-and-back-end-development-explained-f44bdaa91313?source=rss-424a410f9ade------2)
 - [The fastest way to become a frontend developer in 2023](https://medium.com/@theBwoyPrgrmmr/the-fastest-way-to-become-a-frontend-developer-in-2023-67b9275b1126?source=rss-424a410f9ade------2)
 <!-- BLOG-POST-LIST:END -->
 ----
