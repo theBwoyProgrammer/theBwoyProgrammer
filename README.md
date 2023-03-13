@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/bLwWjSM/finall.png" alt="Nature">
+<img src="https://i.ibb.co/bLwWjSM/finall.png" alt="theeBwoy">
 
 <h1 align="center">Hi 👋, I'm Hatim</h1>
 <h3 align="center">I'm a committed junior engineer with expertise working with cutting-edge technology and user-friendly services. I'm also passionate about music, and coding seems more natural when accompanied by music. When it comes to new technology and creative coding, I'm constantly eager to learn more.</h3>
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me <a href="mailto:hatimeddinani@gmail.com">through email</a>
 
-- 📄 Know about my experiences [check my Resume](https://docs.google.com/document/d/1X-RTl-oVIxL3ZHEpGZnKAqojkn9waVoAk-Ej1_BfHgA/edit)
+- 📄 Know about my experiences [check my Resume](https://docs.google.com/document/d/1eFIUmnAEIO1KS1li4awKAhipB4b42nB9BzWd78X9qJc/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a dog lover and pretty funny**
 
