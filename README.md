@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any market standard app**
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://hatim-engineer.tech/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://hatim-engineer.tech/portfolio)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@theBwoyPrgrmmr)
 
