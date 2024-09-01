@@ -28,6 +28,7 @@
 ----
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Basics: 10 Essential Ruby on Rails Terms for Developers](https://medium.com/@theBwoyPrgrmmr/mastering-the-basics-10-essential-ruby-on-rails-terms-for-developers-7d6dd07a5ba1?source=rss-424a410f9ade------2)
 - [PWA vs. Native Apps: Why PWAs Have a Higher Probability of Replacing Native Apps](https://medium.com/@theBwoyPrgrmmr/pwa-vs-native-apps-why-pwas-have-a-higher-probability-of-replacing-native-apps-39a144818740?source=rss-424a410f9ade------2)
 - [HTTP Requests and How the Internet Works](https://medium.com/@theBwoyPrgrmmr/http-requests-and-how-the-internet-works-a97211522abf?source=rss-424a410f9ade------2)
 - [Web Development 101: Front-End and Back-End Development Explained](https://medium.com/@theBwoyPrgrmmr/web-development-101-front-end-and-back-end-development-explained-f44bdaa91313?source=rss-424a410f9ade------2)
